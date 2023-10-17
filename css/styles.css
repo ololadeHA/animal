@@ -1,0 +1,23 @@
+h1{
+  background-color:greenyellow;
+  color: blue;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+.big{
+  width: 1000px;
+}
+
+.dogg{
+  width: 1000px;
+}
+
+ul{
+  text-align: left;
+}
